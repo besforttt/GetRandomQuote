@@ -1,1 +1,1 @@
-# Learning-JavaScript-1
+# Random Quote Generator
