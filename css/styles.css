@@ -18,7 +18,7 @@ body {
   line-height: 1.1;
   position: relative;
   margin: 0;
-  } 
+  }
 .quote:before, .quote:after {
   font-size: 6rem;
   line-height: 2.5rem;
@@ -54,6 +54,11 @@ body {
 }
 .year:before {
   content: ", ";
+  font-style: normal;
+}
+/* added css for the category class*/
+.category:before {
+  content: " - ";
   font-style: normal;
 }
 
